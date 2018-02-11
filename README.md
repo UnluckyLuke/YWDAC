@@ -9,7 +9,3 @@ This application is under early development and have some known bugs before the 
 <h4>YWDAC is supposed to work like this:</h4>
 If you know of a open directory on a HTTP server and you really need those MP3 files and probably the MKV files too but not anything else, then just select the options you need and click a button and wait for it to get downloaded.
 
-
-Regards,
-
-UnluckyLuke
